@@ -2,13 +2,13 @@
 
 Simple chat application using Remote Method Call
 
-====== Features  
+**====== Features** 
 
  1. Public Messages
  2. Direct Messages
  3. No special libraries
 
-====== Compilation
+**====== Compilation**
 
  Java compilation:
 
@@ -27,7 +27,7 @@ Simple chat application using Remote Method Call
 	 Windows:start rmiregistry
  ```
 
-====== Execution
+**====== Execution**
 
 ```
  Server:
@@ -35,15 +35,12 @@ Simple chat application using Remote Method Call
  Clients:
 	java chatrmi.client.Client CLIENT_NAME
 ```
-====== Usage
+**====== Usage**
 
-
- **\help? for usage**
-
- **\ID@NAME retrieve the IS of the client with the name NAME**
-
- **\PRIVATE@ID send a direct message to client with ID**
-
- **\ONLINE@ list all online clients**
-
+```
+ \help? for usage
+ \ID@NAME retrieve the IS of the client with the name NAME
+ \PRIVATE@ID send a direct message to client with ID
+ \ONLINE@ list all online clients
+```
 > Thanks BY(ENNASRI Mouad)
