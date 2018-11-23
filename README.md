@@ -2,7 +2,7 @@
 
 Simple chat application using Remote Method Call
 
-**====== Features** 
+**====== Features**
 
  1. Public Messages
  2. Direct Messages
@@ -43,4 +43,4 @@ Simple chat application using Remote Method Call
  \PRIVATE@ID send a direct message to client with ID
  \ONLINE@ list all online clients
 ```
-> Thanks BY(ENNASRI Mouad)
+> Thanks (ENNASRI Mouad)
